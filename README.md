@@ -31,7 +31,7 @@ $ python setup.py install
 ##### 1. Improving runtime of MOEA/D 
 
 ```bash
-$ cd example
+$ cd pyggi
 $ python improve_MOEAD.py
 ```
 
@@ -39,7 +39,7 @@ $ python improve_MOEAD.py
 ##### 1. Improving runtime of MOEA/D 
 
 ```bash
-$ cd example
+$ cd pyggi
 $ python validate_moead.py
 ```
 
